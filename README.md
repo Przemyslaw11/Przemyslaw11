@@ -1,30 +1,23 @@
-<h2>Tech Skills</h2>
+<h1 align="center">👋 Hi, I'm Przemek!</h1>
 
+### About Me
 
-<p align="left">
+- 🧑‍💻 **Data Scientist** at [Nokia](https://www.nokia.com/): I focus on implementing Retrieval-Augmented Generation (RAG) applications and document retrieval systems.
   
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" height="55" title="Python"/>
-  <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" height="55" title="Keras"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="55" title="Pytorch"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="55" title="TensorFlow"/>
-  <img src="https://github.com/get-icon/geticon/blob/master/icons/numpy-icon.svg" height="55" title="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" height="55" title="Docker"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" height="55" title="Selenium"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" height="55" title="Pandas"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" height="55" title="Matplotlib"/>
-  <img src="https://vectorwiki.com/images/i0tvc__fastapi.svg" height="55" title="FastAPI"/>
+- 🏎️ **Lead AI Developer** at [AGH Racing](https://www.racing.agh.edu.pl/en/home/): I spearheaded AI development for autonomous vehicle during my academic journey.
+
+- 👩‍💻 **Big Data Mentee** at [Allegro](https://allegro.tech/): I'm diving into the world of scalable data solutions, learning how to build efficient systems that can handle big data challenges!
   
+- 📖 **Currently Pursuing**: A Master's in Computer Science, conducting research on agnostic methods for accelerating deep neural network training to reduce energy consumption.
 
+- 🎓 **Educational Background**: I hold a Bachelor's in Mathematics, with a passion for probability theory and advanced statistics. My thesis explored the convergence of neural networks.
 
+- 📊 **Kaggle Notebooks Expert**: Check out my work on [Kaggle](https://www.kaggle.com/przemyslawbar).
+
+- 🪙 **Hobby Project**: I'm building a smart wallet app in my spare time.
   
-</p>
+- 🔎 **Fun Fact**: I once earned my own Scrum Master certification just to dive deeper into Agile methodologies!
 
-
-
-<h2>My GitHub Stats</h2>
-<div align="center">
-<a href="https://git.io/streak-stats">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Przemyslaw11&layout=compact&theme=nord&hide_border=true&langs_count=8"/>
-</a>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Przemyslaw11&" alt="Przemyslaw11" /></p>
-</div>
+### Let's Connect!  
+&nbsp;&nbsp;&nbsp;&nbsp;📧 [Email Me](mailto:spyraprzemyslaw11@gmail.com)  
+&nbsp;&nbsp;&nbsp;&nbsp;🔗 [LinkedIn Profile](https://www.linkedin.com/in/przemyslaw-spyra)  
