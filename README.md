@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Przemek (Shem) 👋</h1>
+<h1 align="center">Hi, I'm Przemek (Shem)</h1>
 
 I build AI-driven software commercially through my own company, so most of my day-to-day engineering happens in private repositories and dedicated client accounts. As a result, this profile represents only a small part of what I work on.
 
