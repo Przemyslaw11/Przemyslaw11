@@ -1,26 +1,20 @@
-<h1 align="center">👋 Hi, I'm Przemek!</h1>
+<h1 align="center">Hi, I'm Przemek (Shem) 👋</h1>
 
-### About Me
+Over the past few years, I've been building AI-driven software commercially through my own company. Most of my day-to-day engineering happens in private repositories and dedicated client accounts, so this GitHub profile represents only a small fraction of what I work on.
 
-- 🧑‍💻 **Data Scientist** at [Nokia](https://www.nokia.com/): I focus on implementing Retrieval-Augmented Generation (RAG) applications and document retrieval systems.
-  
-- 🏎️ **Lead AI Developer** at [AGH Racing](https://www.racing.agh.edu.pl/en/home/): I spearheaded AI development for autonomous vehicle during my academic journey.
+Outside of commercial projects, I maintain **[BeyondBackpropagation](https://github.com/Przemyslaw11/BeyondBackpropagation)**. It's an open-source research project exploring practical alternatives to backpropagation for more energy-efficient deep learning. Every now and then I come back to it to improve its robustness, add support for new hardware, and experiment with new ideas as the field evolves.
 
-- 🎓 **Educational Background**: I hold a Bachelor's in Mathematics, with a passion for probability theory and advanced statistics. My thesis explored the convergence of neural networks.
-  
-- 📖 **Currently Pursuing**: A Master's in Computer Science, conducting research on agnostic methods for accelerating deep neural network training to reduce energy consumption.
+I also develop a collection of personal libraries and automation tools that help me manage data, digital assets, and repetitive workflows. They're primarily built to solve problems I encounter in practice, and who knows, maybe I'll make some of them public one day ;).
 
-- 📊 **Kaggle Notebooks Expert**: Check out my work on [Kaggle](https://www.kaggle.com/przemyslawbar).
+Beyond software engineering, I enjoy attending conferences, sharing practical solutions through talks, meeting great people from the community, and occasionally contributing to research publications. If we're at the same event, don't hesitate to come and say hi!
 
-- 🪙 **Hobby Project**: I'm building a smart wallet app in my spare time. It's called [Polifolio](https://github.com/Przemyslaw11/polifolio).
-  
-- 🔎 **Fun Fact**: I once earned my own Scrum Master certification just to dive deeper into Agile methodologies!
+---
 
-- 💚 ***Interests***: I enjoy playing the guitar, going on group hikes, playing chess, and immersing myself in great games like Baldur's Gate III or Elden Ring.
+<div align="center">
 
-### Let's Connect!  
-&nbsp;&nbsp;&nbsp;&nbsp;📧 [Email Me](mailto:spyraprzemyslaw11@gmail.com)  
-&nbsp;&nbsp;&nbsp;&nbsp;🔗 [LinkedIn Profile](https://www.linkedin.com/in/przemyslaw-spyra)  
+### Let's Connect
 
+📧 <a href="mailto:spyra.przemyslaw@outlook.com">Email</a> •
+🔗 <a href="https://www.linkedin.com/in/przemyslaw-spyra">LinkedIn</a>
 
-https://github.com/pspyra11
+</div>
