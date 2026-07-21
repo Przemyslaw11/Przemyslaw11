@@ -1,12 +1,10 @@
 <h1 align="center">Hi, I'm Przemek (Shem) 👋</h1>
 
-Over the past few years, I've been building AI-driven software commercially through my own company. Most of my day-to-day engineering happens in private repositories and dedicated client accounts, so this GitHub profile represents only a small fraction of what I work on.
+I build AI-driven software commercially through my own company, so most of my day-to-day engineering happens in private repositories and dedicated client accounts. As a result, this profile represents only a small part of what I work on.
 
-Outside of commercial projects, I maintain **[BeyondBackpropagation](https://github.com/Przemyslaw11/BeyondBackpropagation)**. It's an open-source research project exploring practical alternatives to backpropagation for more energy-efficient deep learning. Every now and then I come back to it to improve its robustness, add support for new hardware, and experiment with new ideas as the field evolves.
+In my spare time, I maintain **[BeyondBackpropagation](https://github.com/Przemyslaw11/BeyondBackpropagation)**. It's an open-source research project exploring energy-efficient alternatives to backpropagation. I also build personal libraries and automation tools to simplify my own workflows, and who knows... maybe some of them will become public one day ;).
 
-I also develop a collection of personal libraries and automation tools that help me manage data, digital assets, and repetitive workflows. They're primarily built to solve problems I encounter in practice, and who knows, maybe I'll make some of them public one day ;).
-
-Beyond software engineering, I enjoy attending conferences, sharing practical solutions through talks, meeting great people from the community, and occasionally contributing to research publications. If we're at the same event, don't hesitate to come and say hi!
+When I'm away from my keyboard, you'll probably find me at a conference, learning something new, giving a talk, chatting with the community, or occasionally working on a research paper. If you see me there, come and say hi!
 
 ---
 
